@@ -23,16 +23,24 @@ Please install the requirements.txt file i.e.
 
 • Fork the following repository.
 
-• Install pyton on your VS Code or pycharm and if some packages or new modules are not updated , install it using using -m pip install --upgrade SomePackage.
+• Install pyton on your VS Code or pycharm and if some packages or new modules are not updated ,  ***install it using using -m pip install --upgrade SomePackage***.
 
 • Install scikit libraries using pip install -U scikit-learn
 
-• Install streamlit framework using pip install streamlit or streamlit docs.
+• Install streamlit framework using pip install ***streamlit or streamlit docs***.
 
-• Then in server directory run Homepage.py (it will be connected to local host) by using Command streamlit run Homepage.py 
+• Then in server directory run  ***Homepage.py*** (it will be connected to local host) by using Command streamlit run Homepage.py 
 
+# Some Demo Images : 
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/614f1b99-54fc-4b02-83dc-5360b92f91d3)
 
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/652e93aa-3421-4a53-977e-1ec161cef19e)
 
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/b0a64014-bcf3-4fa3-be29-a0e099a8700d)
+
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/3d802d07-f0a3-4f57-b001-a017dac0dcf1)
+
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/67894925-5315-4f9d-ba1f-0fd03b349de6)
 
 
 

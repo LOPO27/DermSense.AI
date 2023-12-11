@@ -16,6 +16,18 @@ Please install the requirements.txt file i.e.
 
 • pdfdocument==0.0.5
 
+# Running the program :
+
+• Fork the following repository.
+
+• Install pyton on your VS Code or pycharm and if some packages or new modules are not updated , install it using using -m pip install --upgrade SomePackage.
+
+• Install scikit libraries using pip install -U scikit-learn
+
+• Install streamlit framework using pip install streamlit or streamlit docs.
+
+• Then in server directory run Homepage.py (it will be connected to local host) by using Command streamlit run Homepage.py 
+
 
 
 

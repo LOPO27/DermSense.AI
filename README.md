@@ -3,18 +3,21 @@
 
 • Additionally, there is a lack of easily understandable educational content about skin conditions. ***DermSense.AI addresses these issues by providing precise and efficient skin condition identification through advanced classification technology, offering accurate and timely diagnoses for users***.
 
+# Solution 
+• ***Image Recognition and Classification:*** DermSense.AI employs advanced image recognition and classification capabilities to accurately identify and categorize various skin conditions.
+
+• ***Deep Learning Algorithms:*** The application utilizes state-of-the-art deep learning algorithms, with a primary focus on Convolutional Neural Networks (CNNs), known for their effectiveness in image-related tasks.
+
+• ***Extensive Skin Image Dataset:*** DermSense.AI is trained on a comprehensive dataset of diverse skin images, encompassing various conditions such as vitiligo, pigmentation issues, eczema, and normal skin. 
+
+• ***Pattern Recognition:*** Leveraging the power of deep learning, DermSense.AI excels in pattern recognition, allowing it to identify subtle and complex patterns associated with different skin conditions.
+
+• ***Precise Diagnoses:*** The core functionality involves providing precise diagnoses of skin conditions based on the learned patterns, ensuring accuracy in identifying even nuanced or early-stage dermatological issues.
+
 # Requirements
 Please install the requirements.txt file i.e. 
 
-• streamlit==0.85.0
-
-• Pillow==8.3.1
-
-• numpy==1.21.1
-
-• torch==1.9.0
-
-• pdfdocument==0.0.5
+***• streamlit==0.85.0 • Pillow==8.3.1 • numpy==1.21.1 • torch==1.9.0 • pdfdocument==0.0.5***
 
 # Running the program :
 

@@ -36,8 +36,6 @@ Please install the requirements.txt file i.e.
 
 ![Diagnoser-·-Streamlit (7)](https://github.com/LOPO27/DermSense.AI/assets/148977729/52fbe029-c7d3-4f93-b919-6a58dda66bbc)
 
-![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/a30f4f84-ebcb-4be9-9189-f0b88a15fa0f)
-
 ![Editorials-·-Streamlit](https://github.com/LOPO27/DermSense.AI/assets/148977729/29268d2c-2e0d-4034-83c2-a19340d22eb5)
 
 ![Appointment-·-Streamlit](https://github.com/LOPO27/DermSense.AI/assets/148977729/b18a7f91-7eab-4ce0-92c6-5ad9248652b2)

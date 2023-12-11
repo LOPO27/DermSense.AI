@@ -34,13 +34,14 @@ Please install the requirements.txt file i.e.
 # Some Demo Images : 
 ![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/614f1b99-54fc-4b02-83dc-5360b92f91d3)
 
-![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/652e93aa-3421-4a53-977e-1ec161cef19e)
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/c9439cda-e0f2-4d69-8db8-9a6519277ce6)
 
-![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/b0a64014-bcf3-4fa3-be29-a0e099a8700d)
+![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/a30f4f84-ebcb-4be9-9189-f0b88a15fa0f)
 
-![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/3d802d07-f0a3-4f57-b001-a017dac0dcf1)
+![Editorials-·-Streamlit](https://github.com/LOPO27/DermSense.AI/assets/148977729/29268d2c-2e0d-4034-83c2-a19340d22eb5)
 
-![DermSense-AI-Skin-disease-classifier](https://github.com/LOPO27/DermSense.AI/assets/148977729/67894925-5315-4f9d-ba1f-0fd03b349de6)
+![Appointment-·-Streamlit](https://github.com/LOPO27/DermSense.AI/assets/148977729/b18a7f91-7eab-4ce0-92c6-5ad9248652b2)
+
 
 
 

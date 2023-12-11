@@ -7,11 +7,15 @@
 
 # Requirements
 Please install the requirements.txt file i.e. 
-streamlit==0.85.0
-Pillow==8.3.1
-numpy==1.21.1
-torch==1.9.0
-pdfdocument==0.0.5
+• streamlit==0.85.0
+
+• Pillow==8.3.1
+
+• numpy==1.21.1
+
+• torch==1.9.0
+
+• pdfdocument==0.0.5
 
 
 
